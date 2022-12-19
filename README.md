@@ -4,21 +4,21 @@
 ​
 # Project look like this
 # HomePage
-![image]("https://github.com/NandlalShah955/Skin-Store-Clone/raw/main/frontend/src/Static-Pages/Top-Images/Homepage.png")
+![image](https://github.com/NandlalShah955/Skin-Store-Clone/raw/main/frontend/src/Static-Pages/Top-Images/Homepage.png)
 # Products Page
-![image](./frontend/src/Static-Pages/Top-Images/Products_page.png)
+![image](https://github.com/NandlalShah955/Skin-Store-Clone/raw/main/frontend/src/Static-Pages/Top-Images/Products_page.png)
 
 # Products Specifications Page
-![image](./frontend/src/Static-Pages/Top-Images/Specpage.png)
+![image](https://github.com/NandlalShah955/Skin-Store-Clone/blob/main/frontend/src/Static-Pages/Top-Images/Specpage.png)
 
 # Cart Page
-![image](./frontend/src/Static-Pages/Top-Images/Cart.png)
+![image](https://github.com/NandlalShah955/Skin-Store-Clone/raw/main/frontend/src/Static-Pages/Top-Images/Cart.png)
 
 # Signup Page
-![image](./frontend/src/Static-Pages/Top-Images/Register.png)
+![image](https://github.com/NandlalShah955/Skin-Store-Clone/raw/main/frontend/src/Static-Pages/Top-Images/Register.png)
 
 # Login Page
-![image](./frontend/src/Static-Pages/Top-Images/Login.png)
+![image](https://github.com/NandlalShah955/Skin-Store-Clone/raw/main/frontend/src/Static-Pages/Top-Images/Login.png)
 
 ​
 [Video presentation of this project](https://drive.google.com/file/d/128jVVwKv2TntuZ8ulj2n_6N74kg6HkAO/view?usp=sharing) 
